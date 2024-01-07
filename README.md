@@ -7,3 +7,6 @@ Quiz Application project is a desktop application developed using C# Language. T
 
 ![image](https://github.com/Vanireddy85/Quiz-Application-project-with-C-Sharp/assets/138992455/d67777eb-f8e1-4e15-8a24-d71a4ff65a9d)
 
+![image](https://github.com/Vanireddy85/Quiz-Application-project-with-C-Sharp/assets/138992455/2e2c7fe7-07d7-4536-ba33-efbd37874aaf)
+
+
